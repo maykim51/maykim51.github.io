@@ -1,6 +1,6 @@
 ---
 title: "TIL-SCC 핫플검색 프로젝트"
-permalink: /til-scc/
+permalink: /categories/til-scc/
 layout: categories
 author_profile: true
 ---

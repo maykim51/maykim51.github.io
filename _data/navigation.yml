@@ -1,6 +1,6 @@
 # main links
 main:
   - title: "TIL"
-    url: /til/
+    url: /categories/til/
   - title: "TIL-SCC"
-    url: /til-scc/
+    url: /categories/til-scc/
