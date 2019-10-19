@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "May Kim (김정혜)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Account Technology Strategist at Microsoft Korea. Technology Enthusiast."
+  bio              : "Account Technology Strategist at Microsoft Korea. \nTechnology Enthusiast."
   location         : "Seoul, Korea"
   email            :
   links:
