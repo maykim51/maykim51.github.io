@@ -1,10 +1,11 @@
 ---
-title: "이 블로그 설명서"
-permalink: /about/
+title: "TIL"
+permalink: /til/
 layout: single
+author_profile: true
 ---
 
-## maykim51.github.io 블로그
+## Today I Learned
 
-WIP
+Today I learned...
 
