@@ -4,3 +4,5 @@ main:
     url: /categories/til/
   - title: "TIL-SCC"
     url: /categories/til-scc/
+  - title: "categories"
+    url: /categories/
