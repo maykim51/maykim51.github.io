@@ -1,6 +1,5 @@
 ---
 title: "TIL - Today I Learned"
-date: 2017-10-22 21:46:28 -0400
 categories: 
     - til
 tags:
