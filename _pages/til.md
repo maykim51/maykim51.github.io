@@ -1,7 +1,7 @@
 ---
-title: "TIL"
+title: "TIL - Today I Learned"
 permalink: /categories/til/
-layout: categories
+layout: category
 author_profile: true
+taxonomy: TIL
 ---
-Today I Learned를 모아놓은 곳
