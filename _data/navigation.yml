@@ -4,7 +4,7 @@ main:
     url: /categories/til/
   - title: "핫플검색 프로젝트"
     url: /categories/scc/
-  - title: "categories"
-    url: /categories/
+  - title: "Microsoft&Azure"
+    url: /categories/ms/
   - title: "tags"
     url: /tags/
